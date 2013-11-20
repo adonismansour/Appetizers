@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 	}
 	
 	
-	int a = 0;
+	int a = 0;//Added comments...
 	
 	
 	
